@@ -230,4 +230,10 @@ p {
     .gif img {
         width: 200px;
     }
+
+    .waves {
+        height: 10vh;
+        min-height: 80px;
+        max-height: 120px;
+    }
 }
